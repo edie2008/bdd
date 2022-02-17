@@ -191,7 +191,7 @@ export default {
       avatarmakerImg: null,
       tipsDialog: false,
       output: null,
-      msg: "冰墩墩表情生成器：https://bdd2022.com/",
+      msg: "冰墩墩表情生成器：http://bdd.niubi.ga/",
       list: [
         {
           img: require("../assets/img/1.jpg"),
